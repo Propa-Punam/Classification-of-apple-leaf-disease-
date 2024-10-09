@@ -1,11 +1,11 @@
-# Mango Leaf Disease Classification
+# Apple Leaf Disease Classification
 
-This project implements a machine learning model to classify mango leaf diseases using a hybrid ResNet-ViT (Vision Transformer) architecture.
+This project implements a machine learning model to classify apple leaf diseases using a hybrid ResNet-ViT (Vision Transformer) architecture.
 
 ## Project Structure
 
 ```
-MANGO LEAF/
+APPLE LEAF/
 ├── LICENSE.md
 ├── model.py
 ├── preprocessing.py
@@ -16,7 +16,7 @@ MANGO LEAF/
 
 ## Description
 
-This project aims to classify mango leaf diseases using a combination of ResNet and Vision Transformer (ViT) models. The hybrid architecture leverages the strengths of both convolutional neural networks and transformer-based models for improved feature extraction and classification performance.
+This project aims to classify apple leaf diseases using a combination of ResNet and Vision Transformer (ViT) models. The hybrid architecture leverages the strengths of both convolutional neural networks and transformer-based models for improved feature extraction and classification performance.
 
 ## Features
 
@@ -45,7 +45,7 @@ python train_model.py
 
 ## Results
 
-The model achieves high accuracy in classifying mango leaf diseases:
+The model achieves high accuracy in classifying apple leaf diseases:
 
 - Cross-Validation Accuracy: 0.9897 ± 0.0036
 - Test Accuracy: 0.9984
